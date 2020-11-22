@@ -28,3 +28,6 @@
           * Missing required attributes in the request
           * Invalid/null values for required attributes
           * Invalid/null values for optional attributes
+
+
+[originally created by Liliya Sarokina for Russian US QA Network group on facebook]
